@@ -1,0 +1,117 @@
+.bodybg{
+    
+    background-color: #355764;
+    height:800px;
+
+}
+.header{
+    font-family: "Ubuntu";
+    padding-left: 5%;
+    padding-right: 50%;
+    font-size: 35px;
+    padding-bottom: 0%;
+    padding-top: 0.3%;
+}
+.nav-link{
+    font-family: "ubuntu";
+    font-size: 20px;
+}
+.main{
+    background-color: #355764;
+    height:700px;
+}
+.p1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 200px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.btn{
+    text-align: center;
+}
+.bt{
+    margin-top: 25px;
+    margin-left:43%;
+    margin-right: 43%;
+}
+.description-page{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: "Ubuntu";
+    font-size: 20px; 
+}
+.text{
+    margin-top: 0px;
+    margin-right: 10px;
+    text-align: center;
+}
+.eventpage{
+    background-color: white;
+    color: black;
+    font-family: "Ubuntu";
+    text-align: center;
+    height:550px;
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
+    padding-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.title{
+    text-align: center;
+    font-family: "Ubuntu";
+    color:white;
+    font-weight: 100;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.text{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right:7%;
+    padding-left: 7%;
+    font-size: 25px;
+    font-family: "Ubuntu";
+}
+.static{
+    text-align: left;
+}
+.longtext{
+    text-align: left;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #355764;
+    min-width: 1000px;
+    color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+.contact{
+  font-family:Ubuntu,sans-serif;
+  margin-top: 50px;
+  margin-left: 50pt;
+  margin-right: 50pt;
+  text-align: left;
+  background-color: white;
+}
+  
